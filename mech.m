@@ -1,4 +1,4 @@
-% step respce plot of a mechanical system with
+% step response plot of a mechanical system with
 % transfer fucntion of 1/(Ms^2 + Bs + k )
 %  M mass of the object
 %  B dumping factor
